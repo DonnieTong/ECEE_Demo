@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3263863F-4576-42F1-B24B-E50F7272D7FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ECEE_Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>888D41B1-B7E9-4283-BBA9-91A340DE7347</key>
+		<string>https://github.com/DonnieTong/ECEE_Demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ECEE_Demo/ECEE_Demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>888D41B1-B7E9-4283-BBA9-91A340DE7347</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DonnieTong/ECEE_Demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>888D41B1-B7E9-4283-BBA9-91A340DE7347</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>888D41B1-B7E9-4283-BBA9-91A340DE7347</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ECEE_Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
